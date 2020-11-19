@@ -1,7 +1,7 @@
 # Jupyter
 Jupyter notebook
 
-Notebook Jupyter sur l'astronomie avec les instrument ci dessous:
+Notebook Jupyter sur l'astronomie avec les instruments ci dessous:
 
 UT1
 - Téléscope Intes M603
