@@ -1,4 +1,4 @@
-# Jupyter notebook for astronomy
+### Jupyter notebook for astronomy
 
 Notebook Jupyter sur l'astronomie avec les instruments ci dessous:
 
