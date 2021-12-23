@@ -9,9 +9,9 @@ UT1
 - Porte filtre Atik
 - Filtre Astronomik L,CLS,V et B
 
-UT2
-- Téléobjectif 70-300
-- Monture LXD650 Meade
-- CMOS QHY5
+UT1
+- Téléobjectif 200 mm F4-F6
 - Porte filtre ZWO mini
 - Filtre Astronomik L
+- SA200
+- ASI 178MM
